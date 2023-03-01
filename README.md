@@ -156,7 +156,7 @@ Install this project with:
 Example command:
 
 ```sh
-  cd my-project
+  cd notes-app-backend
   gem install
 ```
 --->
